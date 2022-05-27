@@ -70,6 +70,10 @@
   
   <img width="324" alt="image" src="https://user-images.githubusercontent.com/87435764/170624572-5b8e51e7-26b2-4075-a259-7c72764399e6.png">
   
+  ## Add new faces
+  -----------------------------------------------------------
+   You can add new faces for decoding in Students_Images folder.
+  
   ##  Having Problems??
   ---------------------------------------
   If you face any problem using provided executable application file then you can also clone the source code and using pyinstaller can create your own executable file.
