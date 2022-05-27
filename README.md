@@ -72,7 +72,7 @@
   
   ## Add new faces
   -----------------------------------------------------------
-   You can add new faces for decoding in Students_Images folder.
+   You can add new faces for decoding in ImagesAttendance folder.
   
   ##  Having Problems??
   ---------------------------------------
