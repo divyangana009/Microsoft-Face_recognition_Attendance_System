@@ -1,6 +1,6 @@
 <RCC>
   <qresource prefix="logo">
-    <file>D:\Face-Recogntion-PyQt-master\Face_Detection_PyQt_Final\logo.jpg</file>
+    <file>logo.jpg</file>
     
    
   </qresource>
