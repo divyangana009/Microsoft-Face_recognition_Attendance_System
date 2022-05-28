@@ -76,6 +76,7 @@
   
   ##  Having Problems??
   ---------------------------------------
+   <a target="_blank" href="https://vimeo.com/714721027">Link to Video Demo</a>
   If you face any problem using provided executable application file then you can also clone the source code and using pyinstaller can create your own executable file.
   
   To install pyinstaller
