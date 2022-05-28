@@ -1,3 +1,6 @@
+#This File for loading data to csv file.
+
+
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QTableWidget, QTableWidgetItem, QPushButton, QHeaderView, QHBoxLayout, QVBoxLayout
 from PyQt5.QtCore import Qt
@@ -45,7 +48,7 @@ class MyApp(QWidget):
         
 if __name__ == '__main__':
     # don't auto scale when drag app to a different monitor.
-    # QGuiApplication.setHighDpiScaleFactorRoundingPolicy(Qt.HighDpiScaleFactorRoundingPolicy.PassThrough)
+    
     
    
   
